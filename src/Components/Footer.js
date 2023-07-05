@@ -22,11 +22,11 @@ const Footer = () => {
   }
 
   const handleGithub = (e) =>{
-    window.open("https://github.com/Aniket2421", '_blank');
+    window.open("https://github.com/Balajiw920", '_blank');
   }
 
   const handleLinkedin = () =>{
-    window.open("https://www.linkedin.com/in/aniket-nerkar-145747248/", '_blank');
+    window.open("", '_blank');
   }
 
   return (
