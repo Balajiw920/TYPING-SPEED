@@ -36,7 +36,7 @@ const Footer = () => {
         <LinkedInIcon style={iconStyle} onClick={handleLinkedin} />
       </div>
       <div className="copyright">
-        Copyright &#169; by Aniket Nerkar
+        Copyright &#169; by Balaji Waghmare
       </div>
 
       <div className="themeButton">
